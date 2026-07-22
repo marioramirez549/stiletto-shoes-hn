@@ -1,0 +1,80 @@
+[
+  {
+    "id": "mocasin-destalonado-eclat",
+    "nombre": "Mocasín Destalonado Éclat",
+    "categoria": "Mocasines",
+    "colores": "Blanco · Negro · Café",
+    "precio": "Consultar precio",
+    "tallas": "Consultar tallas",
+    "imagen": "images/mocasin-tricolor.webp",
+    "descripcionImagen": "Mocasines destalonados Stiletto Shoes en blanco, negro y café",
+    "etiqueta": "Tres colores",
+    "destacado": false,
+    "disponible": true
+  },
+  {
+    "id": "mocasin-lumiere",
+    "nombre": "Mocasín Lumière",
+    "categoria": "Mocasines",
+    "colores": "Blanco con detalle dorado",
+    "precio": "Consultar precio",
+    "tallas": "Consultar tallas",
+    "imagen": "images/mocasin-blanco.webp",
+    "descripcionImagen": "Mocasín destalonado blanco con detalle metálico dorado",
+    "etiqueta": "Elegancia diaria",
+    "destacado": false,
+    "disponible": true
+  },
+  {
+    "id": "mocasin-chaine",
+    "nombre": "Mocasín Chaîne",
+    "categoria": "Mocasines",
+    "colores": "Marfil · Negro",
+    "precio": "Consultar precio",
+    "tallas": "Consultar tallas",
+    "imagen": "images/mocasin-cadena.webp",
+    "descripcionImagen": "Mocasines clásicos con cadena dorada en marfil y negro",
+    "etiqueta": "Clásico renovado",
+    "destacado": false,
+    "disponible": true
+  },
+  {
+    "id": "slingback-rouge",
+    "nombre": "Slingback Rouge",
+    "categoria": "Tacones",
+    "colores": "Rojo charol",
+    "precio": "Consultar precio",
+    "tallas": "Consultar tallas",
+    "imagen": "images/slingback-rojo.webp",
+    "descripcionImagen": "Tacones slingback rojos de charol con punta fina",
+    "etiqueta": "Pieza protagonista",
+    "destacado": false,
+    "disponible": true
+  },
+  {
+    "id": "slingback-nude",
+    "nombre": "Slingback Nude",
+    "categoria": "Destalonados",
+    "colores": "Nude charol",
+    "precio": "Consultar precio",
+    "tallas": "Consultar tallas",
+    "imagen": "images/slingback-nude.webp",
+    "descripcionImagen": "Zapatos slingback nude de charol con detalle dorado",
+    "etiqueta": "Sutil y versátil",
+    "destacado": false,
+    "disponible": true
+  },
+  {
+    "id": "mule-grand-noeud",
+    "nombre": "Mule Grand Nœud",
+    "categoria": "Tacones",
+    "colores": "Rojo con lazo satinado",
+    "precio": "Consultar precio",
+    "tallas": "Consultar tallas",
+    "imagen": "images/mule-lazo-rojo.webp",
+    "descripcionImagen": "Mules rojos de tacón con lazo satinado grande",
+    "etiqueta": "Edición especial",
+    "destacado": true,
+    "disponible": true
+  }
+]
